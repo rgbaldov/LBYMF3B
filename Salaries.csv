@@ -1,4 +1,4 @@
-Rank,Discipline,PhD,Grade,Sex,Salary
+rank,discipline,phd,grade,gender,salary
 Prof,B,56,49,Male,186960
 Prof,A,12,6,Male,93000
 Prof,A,23,20,Male,110515
